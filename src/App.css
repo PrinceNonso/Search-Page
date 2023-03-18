@@ -1,0 +1,35 @@
+.App {
+}
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #FFA000;
+}
+div{
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: center;
+
+}
+h1{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+.Input{
+    width: 100%;
+   padding: 10px;
+   margin: 0 20px;
+   border: 1px lightgray solid;
+   outline: none;
+}
+li{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
